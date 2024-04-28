@@ -15,11 +15,11 @@ Example:
 Pedigree file:
 
 H102	0	QQ3R      
-986	M3	A70
-A70	RR77	W55W
-W55W	986	0
-969696	KK100K	TTTT5      
-NNN14	313	A70     
+986	M3	A70        
+A70	RR77	W55W      
+W55W	986	0      
+969696	KK100K	TTTT5           
+NNN14	313	A70         
 M3	0	TTTT5      
 M4	M3	969696       
 S44S	313	969696      
